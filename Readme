@@ -1,1 +1,3 @@
-<>
+-Extension made to check up on the Phishing website based on ML.
+-User needs to give access to the site and further no permissions.
+-Will detect and inform the user about the site whether it is phishing or not.
